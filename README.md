@@ -1,5 +1,5 @@
-# Example Project
-This is an example of a simple C project for CPTR131. It should include the following make commands:
+# Base Converter Project (Lab 0)
+This is an example of a base converter project for CPTR131 Lab 0. It should include the following make commands:
 
 ```
 make
