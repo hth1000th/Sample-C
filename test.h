@@ -1,2 +1,2 @@
-void test_add();
-void test_mult();
+void test_to_dec();
+void test_from_dec();
