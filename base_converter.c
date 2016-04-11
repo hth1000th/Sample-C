@@ -10,10 +10,10 @@ int main(void)
 	int result_as_decimal; // result after converting specific digits to decimal digits;
 
 	puts("Alphabets MUST be entered in UPPERCASE!");
-  puts("Enter a base for source to convert:(2~36)");
-  scanf("%d", &source);
-  puts("Enter a base for destination to convert:(2~36)");
-  scanf("%d", &destination);
+  	puts("Enter a base for source to convert:(2~36)");
+  	scanf("%d", &source);
+	puts("Enter a base for destination to convert:(2~36)");
+  	scanf("%d", &destination);
 	puts("Enter any number:(including letters) (Eg. A1, B2C)");
 	scanf("%s", input_as_chr);
 
